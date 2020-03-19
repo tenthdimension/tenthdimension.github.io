@@ -14,7 +14,7 @@ h1 {
 
 
 p, li {
-  font-size: 2rem;    
+  font-size: 1.6rem;    
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -28,6 +28,11 @@ body {
   border: 5px solid black;
 }
 
+#text {
+  font-size: 2rem;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
 
 #footer {
     background-color:black;
