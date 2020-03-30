@@ -46,7 +46,6 @@ aside ul li a {
 main > article{
     width: 85%;
     height: 100%;
-    background-color: skyblue;
     float: right;
     padding: 20px 0px 100px 0px;
     text-indent: 20px;
@@ -74,19 +73,11 @@ p, li {
 }
 
 
-/*body {
-    width: 600px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 50px 20px 20px 20px;
-    border: 5px solid rgb(222, 188, 124);
-}*/
-
-
 footer {
     background-color:black;
     color:white;
     clear:both;
     text-align:center;
+    height: 20px;
     padding:5px; 
 }
